@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+./dockertools/bin/run golang.docker golang
